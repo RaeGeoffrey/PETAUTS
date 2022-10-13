@@ -1,0 +1,1 @@
+var json_tanjungbalai_19 = {"type":"FeatureCollection","name":"tanjungbalai_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAMOBJ":"Rumah Sakit Umum Hadi Husada Tanjungbalai","REMARK":"Rumah Sakit Umum"},"geometry":{"type":"Point","coordinates":[99.804747494000082,2.962987655000063]}}]}

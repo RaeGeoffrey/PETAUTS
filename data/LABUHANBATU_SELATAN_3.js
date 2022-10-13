@@ -1,0 +1,1 @@
+var json_LABUHANBATU_SELATAN_3 = {"type":"FeatureCollection","name":"LABUHANBATU_SELATAN_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAMOBJ":"RSUD Kotapinang","REMARK":"Rumah Sakit Umum"},"geometry":{"type":"Point","coordinates":[100.093905573000086,1.893350012000042]}}]}

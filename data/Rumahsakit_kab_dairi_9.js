@@ -1,0 +1,1 @@
+var json_Rumahsakit_kab_dairi_9 = {"type":"FeatureCollection","name":"Rumahsakit_kab_dairi_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAMOBJ":"RSU Pusat Sidikalang","REMARK":"Rumah Sakit Umum"},"geometry":{"type":"Point","coordinates":[98.319507274000046,2.739639564000072]}}]}

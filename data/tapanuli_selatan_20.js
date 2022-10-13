@@ -1,0 +1,1 @@
+var json_tapanuli_selatan_20 = {"type":"FeatureCollection","name":"tapanuli_selatan_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAMOBJ":"RSUD Sipirok","REMARK":"Rumah Sakit Umum"},"geometry":{"type":"Point","coordinates":[99.267137800000057,1.603469100000041]}}]}
